@@ -1,5 +1,3 @@
-![Dhwanibodh – Smart India Hackathon 2023](dhwanibodh.png)
-
 # 🏆 Dhwanibodh – Smart India Hackathon 2023
 
 🏆 **1st Place – National Level Winner**  
@@ -55,10 +53,10 @@ I presented the live working prototype, explained the system architecture, defen
 ## 📽️ Demo & Certificate
 
 🎥 **Watch the App Demo Video on YouTube**:  
-[Click here](https://www.youtube.com/watch?v=HqCNWa97Kgs)
+- [Click here](https://www.youtube.com/watch?v=HqCNWa97Kgs)
 
 📜 **View My Winning Certificate**:  
-[Click here](https://github.com/Aa1702/dhwanibodh-smart-india-hackathon-2023/raw/main/SIH%20certificate.pdf)
+- [Click here](https://github.com/Aa1702/dhwanibodh-smart-india-hackathon-2023/raw/main/SIH%20certificate.pdf)
 
 📘 **Read the Published Paper (IRJMETS)**:  
 - [Click here – Version 1](https://github.com/Aa1702/dhwanibodh-smart-india-hackathon-2023/raw/main/IRJMETS60500252267-may%20research%20papers.pdf)  
